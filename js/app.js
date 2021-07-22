@@ -1,0 +1,3 @@
+showCategories(categories);
+
+let selectedProductPrice;
