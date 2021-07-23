@@ -1,1 +1,1 @@
-# https://vadyanator.github.io/gadget-shop/
+# https://vsuslov29.github.io/gadget-shop/
